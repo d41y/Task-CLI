@@ -53,7 +53,7 @@ def process(*args):
 
 def print_help():
     """Prints a help message."""
-    print("Usage: main.py <command>")
+    print("Usage: task-cli.py <command>")
     print()
     print("Commands:    list                        - lists existing todos")
     print("             add '[TASK]'                - add a new todo")
