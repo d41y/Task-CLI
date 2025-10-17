@@ -1,0 +1,5 @@
+# ignore all files except .gitignore and .py
+*
+!.gitignore
+!task-cli.py
+!README.md
