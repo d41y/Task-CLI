@@ -5,7 +5,7 @@ Terminal-based task manager / to-do list.
 ## Usage
 
 ```python
-Usage: main.py <command>
+Usage: task-cli.py <command>
 
 Commands:    list                        - lists existing todos
              add '[TASK]'                - add a new todo
